@@ -1,2 +1,2 @@
-# trex-web
-game
+# versao_grupo_trex
+Game
